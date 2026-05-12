@@ -1,0 +1,20 @@
+PIPELINE OF MACHINE LEARNING PROJECT :
+
+	STEP 1 - import necessary libraries
+	STEP 2 - load the datasets 
+	STEP 3 - data pre-processing --------------------------> missing values , outliers
+	STEP 4 - eda(analysis of data) 
+	STEP 5 - feature engineering 
+	STEP 6 - dividing data into input features and output features as x,y
+	STEP 7 - Splitting data into training and testing part
+	STEP 8 - Train Model
+			------>import model library
+			------>load model
+			------>fit model on training data
+			------>predict the testing data
+	STEP 9 - Check model loss function
+	STEP 10 - Check model evaluation
+	STEP 11 - Save model
+
+
+
